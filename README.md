@@ -158,9 +158,9 @@ The application stores data in text files:
 
 📧 Email: [hemanthheman86@gmail.com](mailto:hemanthheman86@gmail.com)
 
-💼 LinkedIn: linkedin.com/in/dhannodi-hemanth-kumar-5b758b258
+💼 LinkedIn: https://linkedin.com/in/dhannodi-hemanth-kumar-5b758b258
 
-🌐 Portfolio: dhkmyportfolio.netlify.app
+🌐 Portfolio: https://dhkmyportfolio.netlify.app
 
 💻 GitHub: github.com/hemanth304050
 
