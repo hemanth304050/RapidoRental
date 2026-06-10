@@ -162,7 +162,7 @@ The application stores data in text files:
 
 🌐 Portfolio: https://dhkmyportfolio.netlify.app
 
-💻 GitHub: github.com/hemanth304050
+💻 GitHub: https://github.com/hemanth304050
 
 ---
 
