@@ -1,4 +1,5 @@
-# RapidoRental # 🚖 Rapido Booking System (Java Console Project)
+# RapidoRental 
+# 🚖 Rapido Booking System (Java Console Project)
 
 A simple **Rapido Ride Booking System** developed using **Core Java** and **File Handling**. This project allows users to register, login, book rides, view bookings, and cancel bookings through a console-based interface.
 
